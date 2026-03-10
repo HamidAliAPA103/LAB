@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\lab\\lab3\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\LAB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BAFC24D-E0CB-4690-84DF-968A71C904FA}|lab3\\lab3.csproj|c:\\users\\classtime.pc_6_213_5\\desktop\\lab\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BAFC24D-E0CB-4690-84DF-968A71C904FA}|lab3\\lab3.csproj|c:\\users\\asus\\desktop\\lab\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BAFC24D-E0CB-4690-84DF-968A71C904FA}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\lab\\lab3\\lab3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LAB\\lab3\\Program.cs",
               "RelativeDocumentMoniker": "lab3\\Program.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_5\\Desktop\\lab\\lab3\\lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LAB\\lab3\\Program.cs",
               "RelativeToolTip": "lab3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAI4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T09:47:01.142Z",
               "EditorCaption": ""

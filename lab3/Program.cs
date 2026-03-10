@@ -65,3 +65,81 @@
 //else
 //    Console.WriteLine("Palindrom deyil");
 
+
+//Console.WriteLine("eded daxil edin");
+//int i = int.Parse(Console.ReadLine());
+//if (i > 1 && i < 100)
+//{
+//    Console.WriteLine("1 100 araliqindadir");
+//}
+//else
+//{
+//    Console.WriteLine("1 100 araliqinda deil");
+
+//}
+//Console.WriteLine("ededin kubu :" + i*i*i);
+
+
+
+
+//Console.WriteLine("ad daxil edin : ");
+//string ad = Console.ReadLine();
+//Console.WriteLine("soyad daxil edin : ");
+//string soyad = Console.ReadLine();
+//Console.WriteLine("Welcome " + ad  +  soyad);
+
+
+
+//Console.WriteLine("soz daxil edin");
+//string soz = Console.ReadLine();
+//int uzunluq = soz.Length;
+//Console.WriteLine("sozun uzunluqu : " + uzunluq);
+
+
+//for (int i = 1; i < 100; i++)
+//{
+//    if (i % 7 == 0 || i % 10 == 7)
+//    {
+//        Console.WriteLine("diz");
+//    }
+//    else
+//    {
+//        Console.WriteLine(i);
+//    }
+//}
+
+
+
+//int[] reqem = { 10, 12, 22, 10,32, 22, 16, 32, 22, 10, 11, 23, 32, 10, 10, 23, 23, 15 };
+
+//for (int i = 0; i < reqem.Length; i++)
+//{
+//    for (int j = i + 1; j < reqem.Length; j++)
+//    {
+//        if (reqem[i] == reqem[j])
+//        {
+
+//        }
+//    }
+//}
+
+//Console.WriteLine(reqem.Length-s);
+
+
+//int[,] matris = new int[3, 3]
+//{
+//    {1,2,3},
+//    {4,5,6},
+//    {7,8,9},
+
+//};
+//for (int i = 0; i < 3; i++)
+//{
+//    for (int j = 0; j < 3; j++)
+//    {
+//        Console.Write(matris[i,j] + " ");
+//    }
+//    Console.WriteLine();
+//}
+
+
